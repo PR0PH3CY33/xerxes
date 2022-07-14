@@ -1,2 +1,2 @@
 # xerxes
-A C/C++ DoS Tool That Floods A Target.
+A C/C++ DoS Tool That Floods Targets.
